@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning **Nodejs**
-- 💻 I’m currently working on my **degree**
+- 💻 I’m currently working on **design** and my **thesis**
 - 📄 Know about my experiences [My Projects](https://lucianafalcon.github.io/Proyects/)
 - 📫 How to reach me lucianabfalcon@gmail.com
 

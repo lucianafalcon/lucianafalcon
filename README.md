@@ -53,6 +53,9 @@ Languages & Tools
 <a href="https://www.autodesk.com/latam/products/autocad/overview?term=1-YEAR&tab=subscription">
   <img src="https://github.com/lucianafalcon/lucianafalcon/blob/main/autocad.png" alt="AutoCAD" width="40" height="40"/>
 </a>
+<a href="https://www.freecad.org/downloads.php">
+  <img src="https://github.com/lucianafalcon/lucianafalcon/blob/main/freecad.png" alt="FreeCAD" width="40" height="40"/>
+</a>
 <a href="http://www.mitspcb.com/support/mdp_cnvecad_en.pdf">
   <img src="https://github.com/lucianafalcon/lucianafalcon/blob/main/mits.png" alt="Mits" width="40" height="40"/>
 </a>

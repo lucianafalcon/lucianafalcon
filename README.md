@@ -68,9 +68,8 @@ Languages & Tools
   <img src="https://github.com/lucianafalcon/lucianafalcon/blob/main/mits.png" alt="Mits" width="40" height="40"/>
 </a>
 
-[![]()]()
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=TU_USUARIO&theme=dark) -->
+<!--[![]()]()
+![GitHub Streak](https://streak-stats.demolab.com/?user=TU_USUARIO&theme=dark) -->
 <h2 align="center">
   <span style="font-size: 2em;"></span>
 </h2>

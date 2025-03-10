@@ -9,7 +9,7 @@
 <ul>
   <li>I’m currently learning <strong>Node.js</strong>.</li>
   <li>I’m Working on <strong>design</strong> and my <strong>thesis</strong>.</li>
-  <li>Know about my experiences <a href="https://lucianafalcon.github.io/Proyects/">My Projects.</a></li>
+  <li>Know about my experiences: <a href="https://lucianafalcon.github.io/Proyects/">My Projects.</a></li>
 </ul> 
 
 

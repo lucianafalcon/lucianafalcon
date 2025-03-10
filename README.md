@@ -1,5 +1,7 @@
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+
 <h2 align="center">
-  <span style="font-size: 2em;">Hi, I'm Lu</span>
+  <span style="font-size: 2em;"></span>
 </h2>
 
 <p>
@@ -7,9 +9,10 @@
 </p>
 
 <ul>
-  <li>I’m currently learning <strong>Node.js</strong>.</li>
-  <li>I’m Working on <strong>design</strong> and my <strong>thesis</strong>.</li>
+  <li>I’m working on <strong>design</strong> and my <strong>thesis</strong> while currently learning <strong>Node.js</strong>.</li>
   <li>Know about my experiences: <a href="https://lucianafalcon.github.io/Proyects/">My Projects.</a></li>
+  <li>How to reach me: <a href="mailto:lucianabfalcon@gmail.com">lucianabfalcon@gmail.com.</a></li>
+
 </ul> 
 
 
@@ -67,4 +70,7 @@ Languages & Tools
 
 [![]()]()
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=TU_USUARIO&theme=dark)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=TU_USUARIO&theme=dark) -->
+<h2 align="center">
+  <span style="font-size: 2em;"></span>
+</h2>

@@ -2,11 +2,16 @@
   <span style="font-size: 2em;">Hi, I'm Lu</span>
 </h2>
 
+<p>
+  <img src="https://github.com/lucianafalcon/lucianafalcon/blob/main/bot.gif" alt="Texto alternativo" width="100" align="right" style="margin-left: 20px;" />
+</p>
 
-- 🌱 I’m currently learning **Nodejs**
-- 💻 I’m currently working on **design** and my **thesis**
-- 📄 Know about my experiences [My Projects](https://lucianafalcon.github.io/Proyects/)
-- 📫 How to reach me lucianabfalcon@gmail.com
+<ul>
+  <li>I’m currently learning <strong>Node.js</strong>.</li>
+  <li>I’m Working on <strong>design</strong> and my <strong>thesis</strong>.</li>
+  <li>Know about my experiences <a href="https://lucianafalcon.github.io/Proyects/">My Projects.</a></li>
+</ul> 
+
 
 Languages & Tools
 
@@ -62,4 +67,4 @@ Languages & Tools
 
 [![]()]()
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=TU_USUARIO&theme=dark)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=TU_USUARIO&theme=dark)

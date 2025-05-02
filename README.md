@@ -10,7 +10,7 @@
 
 <ul>
   <li>Know about my experiences: <a href="https://lucianafalcon.github.io/Proyects/">My Projects.</a></li>
-  <li>How to reach me: <a href="mailto:lucianabfalcon@gmail.com">lucianabfalcon@gmail.com.</a></li>
+  <li>How to reach me: <a href="mailto:lucianabfalcon@gmail.com">lucianafalcon@icloud.com.</a></li>
 
 </ul> 
 

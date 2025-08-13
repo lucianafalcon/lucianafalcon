@@ -10,7 +10,7 @@
 
 <p>Know about my experiences: <a href="https://lucianafalcon.github.io/Proyects/">My Projects</a></p>
 <p>My <a href="https://github.com/lucianafalcon/Engineering_Portfolio">Engineering Portfolio</a></p>
-<p>📧 How to reach me: <a href="mailto:lucianabfalcon@gmail.com">lucianafalcon@icloud.com</a></p>
+
 
 
 </ul> 
@@ -73,3 +73,4 @@ Languages & Tools
   <span style="font-size: 2em;"></span>
 </h2>
 
+<p>📧 How to reach me: <a href="mailto:lucianabfalcon@gmail.com">lucianafalcon@icloud.com</a></p>

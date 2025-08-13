@@ -8,12 +8,12 @@
   <img src="https://github.com/lucianafalcon/lucianafalcon/blob/main/bot.gif" alt="Texto alternativo" width="100" align="right" style="margin-left: 20px;" />
 </p>
 
-<ul>
-  <li>Know about my experiences: <a href="https://lucianafalcon.github.io/Proyects/">My Projects.</a></li>
-  <li>How to reach me: <a href="mailto:lucianabfalcon@gmail.com">lucianafalcon@icloud.com.</a></li>
+<p>Know about my experiences: <a href="https://lucianafalcon.github.io/Proyects/">My Projects</a></p>
+<p>My <a href="https://github.com/lucianafalcon/Engineering_Portfolio">Engineering Portfolio</a></p>
+<p>📧 How to reach me: <a href="mailto:lucianabfalcon@gmail.com">lucianafalcon@icloud.com</a></p>
+
 
 </ul> 
-
 
 Languages & Tools
 
@@ -72,3 +72,4 @@ Languages & Tools
 <h2 align="center">
   <span style="font-size: 2em;"></span>
 </h2>
+

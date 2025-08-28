@@ -8,11 +8,14 @@
   <img src="https://github.com/lucianafalcon/lucianafalcon/blob/main/bot.gif" alt="Texto alternativo" width="100" align="right" style="margin-left: 20px;" />
 </p>
 
-<p>Know about my experiences: <a href="https://lucianafalcon.github.io/Proyects/">My Projects</a></p>
-<p>My <a href="https://github.com/lucianafalcon/Engineering_Portfolio">Engineering Portfolio</a></p>
+<h3 align="center">Luciana Falcon</h3>
 
+<p>Check out my projects and experiments in electronics, design, and simulations: <a href="https://lucianafalcon.github.io/Proyects/">My Projects</a></p>
 
+<p>🛠 My <a href="https://github.com/lucianafalcon/Engineering_Portfolio">Engineering Portfolio</a></p>
 
+<p>🌐<a href="https://github.com/lucianafalcon/Web_Projects_Collection.git">Web Development Projects</a></p>
+<p>Explore my web projects built with JS, React, HTML, CSS, and more.</p>
 </ul> 
 
 Languages & Tools

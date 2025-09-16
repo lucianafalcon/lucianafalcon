@@ -10,12 +10,12 @@
 
 <h3 align="center">Luciana Falcon</h3>
 
-<p>Check out my projects and experiments in electronics, design, and simulations: <a href="https://lucianafalcon.github.io/Proyects/">My Projects</a></p>
+<p>🛠 Check out my projects and experiments in electronics, design, and simulations
+  <p><a href="https://github.com/lucianafalcon/Engineering_Portfolio">Engineering Portfolio</a></p>
+</p>
 
-<p>🛠 My <a href="https://github.com/lucianafalcon/Engineering_Portfolio">Engineering Portfolio</a></p>
-
-<p>🌐<a href="https://github.com/lucianafalcon/Web_Projects_Collection.git">Web Development Projects</a></p>
-<p>Explore my web projects built with JS, React, HTML, CSS, and more.</p>
+<p>🌐 Explore my web projects built with JS, React, HTML, CSS, and more</p>
+  <p><a href="https://github.com/lucianafalcon/Web_Projects_Collection.git">Web Development Projects</a></p>
 </ul> 
 
 Languages & Tools

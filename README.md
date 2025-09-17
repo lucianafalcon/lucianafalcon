@@ -69,6 +69,9 @@ Languages & Tools
 <a href="http://www.mitspcb.com/support/mdp_cnvecad_en.pdf">
   <img src="https://github.com/lucianafalcon/lucianafalcon/blob/main/mits.png" alt="Mits" width="40" height="40"/>
 </a>
+<a href="http://www.mitspcb.com/support/mdp_cnvecad_en.pdf">
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="50" height="50"/>
+</a>
 
 <!--[![]()]()
 ![GitHub Streak](https://streak-stats.demolab.com/?user=TU_USUARIO&theme=dark) -->

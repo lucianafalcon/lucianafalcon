@@ -18,6 +18,11 @@
   <p><a href="https://github.com/lucianafalcon/Web_Projects_Collection.git">Web Development Projects</a></p>
 </ul> 
 
+Live Demos
+
+[![Deploy with Vercel](https://vercel.com/button)](https://web-projects-collection.vercel.app/)  
+[![Deploy with Vercel](https://vercel.com/button)](https://macronutrients.vercel.app/)  
+
 Languages & Tools
 
 <a href="https://www.python.org">

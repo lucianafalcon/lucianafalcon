@@ -20,8 +20,8 @@
 
 Live Demos
 
-[![Deploy with Vercel](https://vercel.com/button)](https://web-projects-collection.vercel.app/)  
-[![Deploy with Vercel](https://vercel.com/button)](https://macronutrients.vercel.app/)  
+- 🍽️ [Le Restaurant](https://web-projects-collection.vercel.app/)
+- 🥗 [Macronutrients App](https://macronutrients.vercel.app/)
 
 Languages & Tools
 

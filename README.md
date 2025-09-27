@@ -15,10 +15,6 @@
 </p>
 
 <p>🌐 Explore my web projects built with JS, React, HTML, CSS, and more</p>
-  <p><a href="https://github.com/lucianafalcon/Fullstack_Crud_Demo.git">Web Development Projects</a></p>
-</ul> 
-
-Live Demos
 
 - 🍽️ [Le Restaurant](https://web-projects-collection.vercel.app/)
 - 🥗 [Macronutrients App](https://macronutrients.vercel.app/)

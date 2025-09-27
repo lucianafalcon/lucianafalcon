@@ -16,8 +16,9 @@
 
 <p>🌐 Explore my web projects built with JS, React, HTML, CSS, and more</p>
 
-- 🍽️ [Le Restaurant](https://web-projects-collection.vercel.app/)
-- 🥗 [Macronutrients App](https://macronutrients.vercel.app/)
+🍽️ [Le Restaurant](https://web-projects-collection.vercel.app/)
+
+🥗 [Macronutrients App](https://macronutrients.vercel.app/)
 
 Languages & Tools
 

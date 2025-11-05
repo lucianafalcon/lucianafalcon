@@ -57,8 +57,6 @@
 <a href="mailto:lucianabfalcon@gmail.com">lucianabfalcon@gmail.com</a>  
 📍 Palermo, CABA, Argentina
 
----
-
 <!-- Optional GitHub stats -->
 <!--
 <p align="center">

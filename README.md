@@ -21,9 +21,9 @@
 <p>
   Explore my web projects built with JS, React, HTML, CSS, and more:
   <br>
-  🍽️ <a href="https://web-projects-collection.vercel.app/">Le Restaurant</a>  
+   <a href="https://web-projects-collection.vercel.app/">Le Restaurant</a>  
   <br>
-  🥗 <a href="https://macronutrients.vercel.app/">Macronutrients App</a>
+   <a href="https://macronutrients.vercel.app/">Macronutrients App</a>
 </p>
 
 ---

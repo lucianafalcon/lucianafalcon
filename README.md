@@ -19,7 +19,7 @@
 </p>
 
 <p>
-  Explore my web projects built with JS, React, HTML, CSS, and more:
+  Explore my web projects:
   <br>
    <a href="https://web-projects-collection.vercel.app/">Le Restaurant</a>  
   <br>

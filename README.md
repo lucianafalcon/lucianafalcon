@@ -12,19 +12,30 @@
        style="margin-left: 25px; border-radius: 10px;" />
 </p>
 
-<p>
-  Check out my projects and experiments in electronics, design, and simulations:
+Bachelor’s Degree in Engineering Sciences.  
+Advanced studies in Electronic Engineering. 
+
+Strong analytical background in mathematics, signal processing and programming.
+
+ Focus Areas  
+- Data Analysis & Visualization
+- Feature Engineering
+- Statistical Analysis
+- Foundations for Machine Learning
+
+<!--<p>
+  Electronics, simulations and signal processing projects:
   <br>
   <a href="https://github.com/lucianafalcon/Engineering_Portfolio"><strong>Engineering Portfolio</strong></a>
 </p>
 
 <p>
-  Explore my web projects:
+  My web projects:
   <br>
    <a href="https://web-projects-collection.vercel.app/">Le Restaurant</a>  
   <br>
    <a href="https://macronutrients.vercel.app/">Macronutrients App</a>
-</p>
+</p> -->
 
 ---
 
@@ -32,14 +43,14 @@
 
 <p align="left">
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://www.python.org"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="100" height="100"/></a> 
+  <a href="https://www.python.org"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="100" height="100"/></a> 
   <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
   <a href="https://www.ibm.com/docs/es/i/7.3?topic=languages-cobol"><img src="https://github.com/lucianafalcon/lucianafalcon/blob/main/cobol.png" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
   <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cs/index.php"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/></a>
-  <a href="https://unity.com/"><img src="https://github.com/lucianafalcon/lucianafalcon/blob/main/unity.png" width="40" height="40"/></a>
   <a href="https://la.mathworks.com/products/matlab.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40" height="40"/></a>
   <a href="https://www.kicad.org/"><img src="https://github.com/lucianafalcon/lucianafalcon/blob/main/kiCAD.png" width="40" height="40"/></a>
   <a href="https://www.altium.com/"><img src="https://github.com/lucianafalcon/lucianafalcon/blob/main/altium.png" width="40" height="40"/></a>

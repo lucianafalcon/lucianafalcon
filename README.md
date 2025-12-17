@@ -15,9 +15,11 @@
 Bachelor’s Degree in Engineering Sciences.  
 Advanced studies in Electronic Engineering. 
 
-Strong analytical background in mathematics, signal processing and programming.
+Backend-oriented engineer with a strong analytical background in
+mathematics, signal processing, and programming.
 
- Focus Areas  
+Focus Areas
+- Backend Systems & Data Processing
 - Data Analysis & Visualization
 - Feature Engineering
 - Statistical Analysis

@@ -20,9 +20,8 @@ mathematics, signal processing, and programming.
 
 Focus Areas
 - Backend Systems & Data Processing
-- Data Analysis & Visualization
-- Feature Engineering
-- Statistical Analysis
+- ETL Pipelines & Data Workflows
+- Feature Engineering 
 - Foundations for Machine Learning
 
 <!--<p>

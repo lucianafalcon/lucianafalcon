@@ -14,14 +14,14 @@
 
 Bachelor’s Degree in Engineering Sciences.  
 
-Backend-oriented engineer with analytical background in   
-mathematics, signal processing, and programming.
+Strong analytical foundation in signal processing,   
+hardware-software integration, and low-level C development.
 
-Focus Areas
-- Backend Systems & Data Processing
-- ETL Pipelines & Data Workflows
-- Feature Engineering 
-- Foundations for Machine Learning
+### Focus Areas
+- Embedded Systems & Real-Time Firmware (C/C++, STM32, ESP32)
+- Signal Processing & Data Acquisition (EMG, Filtering, Low-Latency Algorithms)
+- IoT Architectures & Communication Protocols (UART, WebSockets, REST APIs)
+- Systems Architecture & Hardware-Software Co-Design
 
 <!--<p>
   Electronics, simulations and signal processing projects:
@@ -66,6 +66,7 @@ Focus Areas
 ### Contact
 
 <a href="mailto:lucianabfalcon@gmail.com">lucianabfalcon@gmail.com</a>  
+Location CABA, Argentina
 
 <!-- Optional GitHub stats -->
 <!--
